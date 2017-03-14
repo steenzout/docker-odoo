@@ -4,10 +4,10 @@
 
 This repo is a fork from [odoo/docker][odoo/docker].
 
-I had made a PR to enhance this repo and
+I had made a PR to enhance the [odoo/docker][odoo/docker] repo and
 be able to generate new tags for any release for any point-in-time.
 
-Since it wasn't merged and
+Since it wasn't merged/rejected and
 I need to be able to build images for snapshots that Odoo doesn't support,
 this repo got a life of its own.
 
