@@ -13,7 +13,7 @@ this repo got a life of its own.
 
 In this repo you'll find several bash scripts to help you generate your own [Odoo][odoo] containers.
 
-If you wish to simply use the images I publish,
+If you wish to simply use the images I publish
 they can be found [here][hub/steenzout/odoo].
 
 Beware, one difference from [Odoo][odoo]'s docker images is that
